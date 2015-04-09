@@ -1,1 +1,1 @@
-Best hack utilizing a FINRA-sponsored open-source project (http://finraos.github.io).
+Best hack utilizing a FINRA-sponsored open-source projects (http://finraos.github.io).
