@@ -2,3 +2,5 @@ Best hack combining publicly available investment advisor data (provided) with o
 
 http://www.adviserinfo.sec.gov/IAPD/Content/BulkFeed/CompilationDownloadLinks.aspx
 DOWNLOAD the Investment Adviser Representatives Report
+
+![Screenshot](screenshot.png)
