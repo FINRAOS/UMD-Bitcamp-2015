@@ -1,5 +1,8 @@
 # UMD-Bitcamp-2015
 UMD bitcamp challenge solutions
+## ALL FINRA SOLUTIONS
+http://bitcamp15.challengepost.com/submissions/search?utf8=%E2%9C%93&filter%5Bsponsor+prizes%5D%5B%5D=finra%3A+best+hack+utilizing+end-of-day+stock+price+data&filter%5Bsponsor+prizes%5D%5B%5D=finra%3A+best+hack+combining+publicly+available+investment+advisor+data&filter%5Bsponsor+prizes%5D%5B%5D=finra%3A+best+hack+utilizing+a+finra-sponsored+open-source+project
+
 
 By sending a pull request to this repository you are agreeming to the Apache V2 License and the DCO terms.
 
